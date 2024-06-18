@@ -1,0 +1,31 @@
+/* Import the Pacifico font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.about-container {
+    text-align: center;
+    font-family: 'Pacifico', cursive; /* Apply the fun font */
+    color: #555;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto; /* Center the container */
+}
+
+.about-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+h1 {
+    color: #d2691e; /* Fun color for the heading */
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 20px; /* Add space between paragraphs */
+    text-align: left; /* Align text to the left for readability */
+}
