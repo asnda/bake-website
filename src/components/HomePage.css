@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 .home-container {
-    font-family: 'Pacifico', cursive; /* Apply the fun font */
+    font-family: 'Pacifico', cursive;
     color: #555;
 }
 
@@ -33,11 +33,11 @@
     text-align: center;
     padding: 20px;
     max-width: 800px;
-    margin: 20px auto; /* Center the content */
+    margin: 20px auto;
 }
 
 .home-content p {
     font-size: 1.2em;
     line-height: 1.6;
-    margin-bottom: 20px; /* Add space between paragraphs */
+    margin-bottom: 20px;
 }
